@@ -95,7 +95,6 @@ Disallow: /
 User-agent: SemrushBot-SI
 Disallow: / 
 
-
 User-agent: SplitSignalBot
 Disallow: / 
 
