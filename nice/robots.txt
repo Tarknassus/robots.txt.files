@@ -6,6 +6,9 @@ User-agent: Amazonbot
 User-agent: anthropic-ai
 User-agent: Applebot
 User-agent: Applebot-Extended
+User-Agent: AwarioBot
+User-Agent: AwarioSmartBot
+User-Agent: AwarioRssBot
 User-agent: Brightbot 1.0
 User-agent: Bytespider
 User-agent: CCBot
@@ -53,6 +56,7 @@ User-agent: SemrushBot-SWA
 User-agent: Sidetrade indexer bot
 User-agent: TikTokSpider
 User-agent: Timpibot
+User-Agent: TurnitinBot
 User-agent: VelenPublicWebCrawler
 User-agent: Webzio-Extended
 User-agent: YouBot
